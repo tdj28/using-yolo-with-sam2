@@ -1,20 +1,3 @@
----
-title: "Using YOLO people detection with Segment Anything 2 from META"
-date: 2024-08-01T19:21:05-07:00
-draft: false
-comments: false
-summary: A quick and dirty example of creating a chef cookbook with rspec tests.
-tags:
-  - ml
-  - sam2
-  - python
-  - yolo
-categories:
-  - demos
-  - ai/ml
-toc: true
----
-
 ## Introduction
 
 META's recent release of [Segment Anything 2](https://github.com/facebookresearch/segment-anything-2) (SAM2) as a fully opensource project, 

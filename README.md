@@ -1,3 +1,7 @@
+# Using YOLO people detection with SAM2 and Moncular Depth Estimation
+
+Note: Moncular Depth Estimation is a work in progress and not yet part of this repo. 
+
 ## Introduction
 
 META's recent release of [Segment Anything 2](https://github.com/facebookresearch/segment-anything-2) (SAM2) as a fully opensource project, 

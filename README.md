@@ -2,6 +2,8 @@
 
 Note: Moncular Depth Estimation is a work in progress and not yet part of this repo. 
 
+https://tdj28.github.io/p/using-yolo-people-detection-with-segment-anything-2-from-meta/
+
 ## Introduction
 
 META's recent release of [Segment Anything 2](https://github.com/facebookresearch/segment-anything-2) (SAM2) as a fully opensource project, 
